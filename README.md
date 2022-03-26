@@ -15,3 +15,5 @@ This was my first project following TOP curriculum. Only using HTML, I created a
 - basic file directory comprehension
 
 Overall, I felt confident completing this project and nothing was overly challenging. However, utilizing git add/commit commands was a little tricky to get the hang of. I think I could improve next time by increasing the frequency and clarity of my commits.
+
+I also had trouble figuring out how to display my images on GitHub Pages. After triple checking the file path and case sensitivity, I realized I had never pushed the image files themselves to the repo. Dumb mistake, but a good lesson to learn for next time.
